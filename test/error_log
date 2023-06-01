@@ -1,0 +1,207 @@
+[15-Apr-2023 17:15:13 UTC] PHP Warning:  include_once(dbconnect.php): failed to open stream: No such file or directory in /home2/jiajunco/public_html/test/index.php on line 4
+[15-Apr-2023 17:15:13 UTC] PHP Warning:  include_once(): Failed opening 'dbconnect.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home2/jiajunco/public_html/test/index.php on line 4
+[15-Apr-2023 17:15:13 UTC] PHP Notice:  Undefined index: name in /home2/jiajunco/public_html/test/index.php on line 7
+[15-Apr-2023 17:15:13 UTC] PHP Notice:  Undefined index: phone in /home2/jiajunco/public_html/test/index.php on line 8
+[15-Apr-2023 17:15:13 UTC] PHP Notice:  Undefined index: email in /home2/jiajunco/public_html/test/index.php on line 9
+[15-Apr-2023 17:15:13 UTC] PHP Notice:  Undefined index: message in /home2/jiajunco/public_html/test/index.php on line 10
+[15-Apr-2023 17:15:13 UTC] PHP Notice:  Undefined variable: conn in /home2/jiajunco/public_html/test/index.php on line 26
+[15-Apr-2023 17:15:13 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home2/jiajunco/public_html/test/index.php on line 26
+[15-Apr-2023 17:15:13 UTC] PHP Notice:  Undefined variable: conn in /home2/jiajunco/public_html/test/index.php on line 33
+[15-Apr-2023 17:15:13 UTC] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, null given in /home2/jiajunco/public_html/test/index.php on line 33
+[15-Apr-2023 17:15:13 UTC] PHP Notice:  Undefined variable: conn in /home2/jiajunco/public_html/test/index.php on line 38
+[15-Apr-2023 17:15:13 UTC] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, null given in /home2/jiajunco/public_html/test/index.php on line 38
+[15-Apr-2023 17:15:26 UTC] PHP Warning:  include_once(dbconnect.php): failed to open stream: No such file or directory in /home2/jiajunco/public_html/test/index.php on line 4
+[15-Apr-2023 17:15:26 UTC] PHP Warning:  include_once(): Failed opening 'dbconnect.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home2/jiajunco/public_html/test/index.php on line 4
+[15-Apr-2023 17:15:26 UTC] PHP Notice:  Undefined index: name in /home2/jiajunco/public_html/test/index.php on line 7
+[15-Apr-2023 17:15:26 UTC] PHP Notice:  Undefined index: phone in /home2/jiajunco/public_html/test/index.php on line 8
+[15-Apr-2023 17:15:26 UTC] PHP Notice:  Undefined index: email in /home2/jiajunco/public_html/test/index.php on line 9
+[15-Apr-2023 17:15:26 UTC] PHP Notice:  Undefined index: message in /home2/jiajunco/public_html/test/index.php on line 10
+[15-Apr-2023 17:15:26 UTC] PHP Warning:  include_once(dbconnect.php): failed to open stream: No such file or directory in /home2/jiajunco/public_html/test/index.php on line 4
+[15-Apr-2023 17:15:26 UTC] PHP Warning:  include_once(): Failed opening 'dbconnect.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home2/jiajunco/public_html/test/index.php on line 4
+[15-Apr-2023 17:15:26 UTC] PHP Notice:  Undefined index: name in /home2/jiajunco/public_html/test/index.php on line 7
+[15-Apr-2023 17:15:26 UTC] PHP Notice:  Undefined index: phone in /home2/jiajunco/public_html/test/index.php on line 8
+[15-Apr-2023 17:15:26 UTC] PHP Notice:  Undefined index: email in /home2/jiajunco/public_html/test/index.php on line 9
+[15-Apr-2023 17:15:26 UTC] PHP Notice:  Undefined index: message in /home2/jiajunco/public_html/test/index.php on line 10
+[15-Apr-2023 17:15:26 UTC] PHP Notice:  Undefined variable: conn in /home2/jiajunco/public_html/test/index.php on line 26
+[15-Apr-2023 17:15:26 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home2/jiajunco/public_html/test/index.php on line 26
+[15-Apr-2023 17:15:26 UTC] PHP Notice:  Undefined variable: conn in /home2/jiajunco/public_html/test/index.php on line 33
+[15-Apr-2023 17:15:26 UTC] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, null given in /home2/jiajunco/public_html/test/index.php on line 33
+[15-Apr-2023 17:15:26 UTC] PHP Notice:  Undefined variable: conn in /home2/jiajunco/public_html/test/index.php on line 38
+[15-Apr-2023 17:15:26 UTC] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, null given in /home2/jiajunco/public_html/test/index.php on line 38
+[15-Apr-2023 17:15:26 UTC] PHP Notice:  Undefined variable: conn in /home2/jiajunco/public_html/test/index.php on line 26
+[15-Apr-2023 17:15:26 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home2/jiajunco/public_html/test/index.php on line 26
+[15-Apr-2023 17:15:26 UTC] PHP Notice:  Undefined variable: conn in /home2/jiajunco/public_html/test/index.php on line 33
+[15-Apr-2023 17:15:26 UTC] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, null given in /home2/jiajunco/public_html/test/index.php on line 33
+[15-Apr-2023 17:15:26 UTC] PHP Notice:  Undefined variable: conn in /home2/jiajunco/public_html/test/index.php on line 38
+[15-Apr-2023 17:15:26 UTC] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, null given in /home2/jiajunco/public_html/test/index.php on line 38
+[15-Apr-2023 17:15:31 UTC] PHP Warning:  include_once(dbconnect.php): failed to open stream: No such file or directory in /home2/jiajunco/public_html/test/index.php on line 4
+[15-Apr-2023 17:15:31 UTC] PHP Warning:  include_once(): Failed opening 'dbconnect.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home2/jiajunco/public_html/test/index.php on line 4
+[15-Apr-2023 17:15:31 UTC] PHP Notice:  Undefined index: name in /home2/jiajunco/public_html/test/index.php on line 7
+[15-Apr-2023 17:15:31 UTC] PHP Notice:  Undefined index: phone in /home2/jiajunco/public_html/test/index.php on line 8
+[15-Apr-2023 17:15:31 UTC] PHP Notice:  Undefined index: email in /home2/jiajunco/public_html/test/index.php on line 9
+[15-Apr-2023 17:15:31 UTC] PHP Notice:  Undefined index: message in /home2/jiajunco/public_html/test/index.php on line 10
+[15-Apr-2023 17:15:31 UTC] PHP Notice:  Undefined variable: conn in /home2/jiajunco/public_html/test/index.php on line 26
+[15-Apr-2023 17:15:31 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home2/jiajunco/public_html/test/index.php on line 26
+[15-Apr-2023 17:15:31 UTC] PHP Notice:  Undefined variable: conn in /home2/jiajunco/public_html/test/index.php on line 33
+[15-Apr-2023 17:15:31 UTC] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, null given in /home2/jiajunco/public_html/test/index.php on line 33
+[15-Apr-2023 17:15:31 UTC] PHP Notice:  Undefined variable: conn in /home2/jiajunco/public_html/test/index.php on line 38
+[15-Apr-2023 17:15:31 UTC] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, null given in /home2/jiajunco/public_html/test/index.php on line 38
+[15-Apr-2023 17:16:16 UTC] PHP Warning:  include_once(dbconnect.php): failed to open stream: No such file or directory in /home2/jiajunco/public_html/test/index.php on line 4
+[15-Apr-2023 17:16:16 UTC] PHP Warning:  include_once(): Failed opening 'dbconnect.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home2/jiajunco/public_html/test/index.php on line 4
+[15-Apr-2023 17:16:16 UTC] PHP Notice:  Undefined index: name in /home2/jiajunco/public_html/test/index.php on line 7
+[15-Apr-2023 17:16:16 UTC] PHP Notice:  Undefined index: phone in /home2/jiajunco/public_html/test/index.php on line 8
+[15-Apr-2023 17:16:16 UTC] PHP Notice:  Undefined index: email in /home2/jiajunco/public_html/test/index.php on line 9
+[15-Apr-2023 17:16:16 UTC] PHP Notice:  Undefined index: message in /home2/jiajunco/public_html/test/index.php on line 10
+[15-Apr-2023 17:16:16 UTC] PHP Notice:  Undefined variable: conn in /home2/jiajunco/public_html/test/index.php on line 26
+[15-Apr-2023 17:16:16 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home2/jiajunco/public_html/test/index.php on line 26
+[15-Apr-2023 17:16:16 UTC] PHP Notice:  Undefined variable: conn in /home2/jiajunco/public_html/test/index.php on line 33
+[15-Apr-2023 17:16:16 UTC] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, null given in /home2/jiajunco/public_html/test/index.php on line 33
+[15-Apr-2023 17:16:16 UTC] PHP Notice:  Undefined variable: conn in /home2/jiajunco/public_html/test/index.php on line 38
+[15-Apr-2023 17:16:16 UTC] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, null given in /home2/jiajunco/public_html/test/index.php on line 38
+[15-Apr-2023 17:16:17 UTC] PHP Warning:  include_once(dbconnect.php): failed to open stream: No such file or directory in /home2/jiajunco/public_html/test/index.php on line 4
+[15-Apr-2023 17:16:17 UTC] PHP Warning:  include_once(): Failed opening 'dbconnect.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home2/jiajunco/public_html/test/index.php on line 4
+[15-Apr-2023 17:16:17 UTC] PHP Notice:  Undefined index: name in /home2/jiajunco/public_html/test/index.php on line 7
+[15-Apr-2023 17:16:17 UTC] PHP Notice:  Undefined index: phone in /home2/jiajunco/public_html/test/index.php on line 8
+[15-Apr-2023 17:16:17 UTC] PHP Notice:  Undefined index: email in /home2/jiajunco/public_html/test/index.php on line 9
+[15-Apr-2023 17:16:17 UTC] PHP Notice:  Undefined index: message in /home2/jiajunco/public_html/test/index.php on line 10
+[15-Apr-2023 17:16:17 UTC] PHP Notice:  Undefined variable: conn in /home2/jiajunco/public_html/test/index.php on line 26
+[15-Apr-2023 17:16:17 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home2/jiajunco/public_html/test/index.php on line 26
+[15-Apr-2023 17:16:17 UTC] PHP Notice:  Undefined variable: conn in /home2/jiajunco/public_html/test/index.php on line 33
+[15-Apr-2023 17:16:17 UTC] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, null given in /home2/jiajunco/public_html/test/index.php on line 33
+[15-Apr-2023 17:16:17 UTC] PHP Notice:  Undefined variable: conn in /home2/jiajunco/public_html/test/index.php on line 38
+[15-Apr-2023 17:16:17 UTC] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, null given in /home2/jiajunco/public_html/test/index.php on line 38
+[15-Apr-2023 17:16:21 UTC] PHP Warning:  include_once(dbconnect.php): failed to open stream: No such file or directory in /home2/jiajunco/public_html/test/index.php on line 4
+[15-Apr-2023 17:16:21 UTC] PHP Warning:  include_once(): Failed opening 'dbconnect.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home2/jiajunco/public_html/test/index.php on line 4
+[15-Apr-2023 17:16:21 UTC] PHP Notice:  Undefined index: name in /home2/jiajunco/public_html/test/index.php on line 7
+[15-Apr-2023 17:16:21 UTC] PHP Notice:  Undefined index: phone in /home2/jiajunco/public_html/test/index.php on line 8
+[15-Apr-2023 17:16:21 UTC] PHP Notice:  Undefined index: email in /home2/jiajunco/public_html/test/index.php on line 9
+[15-Apr-2023 17:16:21 UTC] PHP Notice:  Undefined index: message in /home2/jiajunco/public_html/test/index.php on line 10
+[15-Apr-2023 17:16:21 UTC] PHP Notice:  Undefined variable: conn in /home2/jiajunco/public_html/test/index.php on line 26
+[15-Apr-2023 17:16:21 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home2/jiajunco/public_html/test/index.php on line 26
+[15-Apr-2023 17:16:21 UTC] PHP Notice:  Undefined variable: conn in /home2/jiajunco/public_html/test/index.php on line 33
+[15-Apr-2023 17:16:21 UTC] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, null given in /home2/jiajunco/public_html/test/index.php on line 33
+[15-Apr-2023 17:16:21 UTC] PHP Notice:  Undefined variable: conn in /home2/jiajunco/public_html/test/index.php on line 38
+[15-Apr-2023 17:16:21 UTC] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, null given in /home2/jiajunco/public_html/test/index.php on line 38
+[15-Apr-2023 17:16:28 UTC] PHP Warning:  include_once(dbconnect.php): failed to open stream: No such file or directory in /home2/jiajunco/public_html/test/index.php on line 4
+[15-Apr-2023 17:16:28 UTC] PHP Warning:  include_once(): Failed opening 'dbconnect.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home2/jiajunco/public_html/test/index.php on line 4
+[15-Apr-2023 17:16:28 UTC] PHP Notice:  Undefined index: name in /home2/jiajunco/public_html/test/index.php on line 7
+[15-Apr-2023 17:16:28 UTC] PHP Notice:  Undefined index: phone in /home2/jiajunco/public_html/test/index.php on line 8
+[15-Apr-2023 17:16:28 UTC] PHP Notice:  Undefined index: email in /home2/jiajunco/public_html/test/index.php on line 9
+[15-Apr-2023 17:16:28 UTC] PHP Notice:  Undefined index: message in /home2/jiajunco/public_html/test/index.php on line 10
+[15-Apr-2023 17:16:28 UTC] PHP Notice:  Undefined variable: conn in /home2/jiajunco/public_html/test/index.php on line 26
+[15-Apr-2023 17:16:28 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home2/jiajunco/public_html/test/index.php on line 26
+[15-Apr-2023 17:16:28 UTC] PHP Notice:  Undefined variable: conn in /home2/jiajunco/public_html/test/index.php on line 33
+[15-Apr-2023 17:16:28 UTC] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, null given in /home2/jiajunco/public_html/test/index.php on line 33
+[15-Apr-2023 17:16:28 UTC] PHP Notice:  Undefined variable: conn in /home2/jiajunco/public_html/test/index.php on line 38
+[15-Apr-2023 17:16:28 UTC] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, null given in /home2/jiajunco/public_html/test/index.php on line 38
+[16-Apr-2023 15:09:01 UTC] PHP Notice:  Undefined variable: connect in /home2/jiajunco/public_html/test/submit_rating.php on line 60
+[16-Apr-2023 15:09:01 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home2/jiajunco/public_html/test/submit_rating.php:60
+Stack trace:
+#0 {main}
+  thrown in /home2/jiajunco/public_html/test/submit_rating.php on line 60
+[16-Apr-2023 15:09:22 UTC] PHP Notice:  Undefined variable: connect in /home2/jiajunco/public_html/test/submit_rating.php on line 35
+[16-Apr-2023 15:09:22 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home2/jiajunco/public_html/test/submit_rating.php:35
+Stack trace:
+#0 {main}
+  thrown in /home2/jiajunco/public_html/test/submit_rating.php on line 35
+[16-Apr-2023 15:09:22 UTC] PHP Notice:  Undefined variable: connect in /home2/jiajunco/public_html/test/submit_rating.php on line 60
+[16-Apr-2023 15:09:22 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home2/jiajunco/public_html/test/submit_rating.php:60
+Stack trace:
+#0 {main}
+  thrown in /home2/jiajunco/public_html/test/submit_rating.php on line 60
+[16-Apr-2023 15:09:38 UTC] PHP Notice:  Undefined variable: connect in /home2/jiajunco/public_html/test/submit_rating.php on line 60
+[16-Apr-2023 15:09:38 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home2/jiajunco/public_html/test/submit_rating.php:60
+Stack trace:
+#0 {main}
+  thrown in /home2/jiajunco/public_html/test/submit_rating.php on line 60
+[16-Apr-2023 15:09:53 UTC] PHP Notice:  Undefined variable: connect in /home2/jiajunco/public_html/test/submit_rating.php on line 35
+[16-Apr-2023 15:09:53 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home2/jiajunco/public_html/test/submit_rating.php:35
+Stack trace:
+#0 {main}
+  thrown in /home2/jiajunco/public_html/test/submit_rating.php on line 35
+[16-Apr-2023 15:09:53 UTC] PHP Notice:  Undefined variable: connect in /home2/jiajunco/public_html/test/submit_rating.php on line 60
+[16-Apr-2023 15:09:53 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home2/jiajunco/public_html/test/submit_rating.php:60
+Stack trace:
+#0 {main}
+  thrown in /home2/jiajunco/public_html/test/submit_rating.php on line 60
+[16-Apr-2023 15:09:57 UTC] PHP Notice:  Undefined variable: connect in /home2/jiajunco/public_html/test/submit_rating.php on line 35
+[16-Apr-2023 15:09:57 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home2/jiajunco/public_html/test/submit_rating.php:35
+Stack trace:
+#0 {main}
+  thrown in /home2/jiajunco/public_html/test/submit_rating.php on line 35
+[16-Apr-2023 15:09:57 UTC] PHP Notice:  Undefined variable: connect in /home2/jiajunco/public_html/test/submit_rating.php on line 60
+[16-Apr-2023 15:09:57 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home2/jiajunco/public_html/test/submit_rating.php:60
+Stack trace:
+#0 {main}
+  thrown in /home2/jiajunco/public_html/test/submit_rating.php on line 60
+[16-Apr-2023 15:12:15 UTC] PHP Warning:  mysqli::query(): Invalid value for resultmode in /home2/jiajunco/public_html/test/submit_rating.php on line 60
+[16-Apr-2023 15:12:15 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home2/jiajunco/public_html/test/submit_rating.php on line 62
+[16-Apr-2023 15:12:15 UTC] PHP Warning:  Division by zero in /home2/jiajunco/public_html/test/submit_rating.php on line 102
+[16-Apr-2023 15:12:21 UTC] PHP Fatal error:  Uncaught Error: Call to a member function execute() on bool in /home2/jiajunco/public_html/test/submit_rating.php:37
+Stack trace:
+#0 {main}
+  thrown in /home2/jiajunco/public_html/test/submit_rating.php on line 37
+[16-Apr-2023 15:12:21 UTC] PHP Warning:  mysqli::query(): Invalid value for resultmode in /home2/jiajunco/public_html/test/submit_rating.php on line 60
+[16-Apr-2023 15:12:21 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home2/jiajunco/public_html/test/submit_rating.php on line 62
+[16-Apr-2023 15:12:21 UTC] PHP Warning:  Division by zero in /home2/jiajunco/public_html/test/submit_rating.php on line 102
+[16-Apr-2023 15:13:34 UTC] PHP Warning:  Division by zero in /home2/jiajunco/public_html/test/submit_rating.php on line 102
+[16-Apr-2023 15:13:34 UTC] PHP Warning:  Division by zero in /home2/jiajunco/public_html/test/submit_rating.php on line 102
+[16-Apr-2023 15:13:34 UTC] PHP Warning:  Division by zero in /home2/jiajunco/public_html/test/submit_rating.php on line 102
+[16-Apr-2023 15:13:41 UTC] PHP Fatal error:  Uncaught Error: Call to a member function execute() on bool in /home2/jiajunco/public_html/test/submit_rating.php:37
+Stack trace:
+#0 {main}
+  thrown in /home2/jiajunco/public_html/test/submit_rating.php on line 37
+[16-Apr-2023 15:13:41 UTC] PHP Warning:  Division by zero in /home2/jiajunco/public_html/test/submit_rating.php on line 102
+[16-Apr-2023 15:23:39 UTC] PHP Warning:  Division by zero in /home2/jiajunco/public_html/test/submit_rating.php on line 106
+[16-Apr-2023 15:23:39 UTC] PHP Warning:  Division by zero in /home2/jiajunco/public_html/test/submit_rating.php on line 106
+[16-Apr-2023 15:23:44 UTC] PHP Fatal error:  Uncaught Error: Call to a member function execute() on bool in /home2/jiajunco/public_html/test/submit_rating.php:39
+Stack trace:
+#0 {main}
+  thrown in /home2/jiajunco/public_html/test/submit_rating.php on line 39
+[16-Apr-2023 15:23:44 UTC] PHP Warning:  Division by zero in /home2/jiajunco/public_html/test/submit_rating.php on line 106
+[16-Apr-2023 15:27:14 UTC] PHP Warning:  mysqli_stmt::execute() expects exactly 0 parameters, 1 given in /home2/jiajunco/public_html/test/submit_rating.php on line 40
+[16-Apr-2023 15:28:45 UTC] PHP Warning:  mysqli_stmt::execute() expects exactly 0 parameters, 1 given in /home2/jiajunco/public_html/test/submit_rating.php on line 43
+[16-Apr-2023 17:16:22 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/jiajunco/public_html/test/submit_rating.php:124) in /home2/jiajunco/public_html/test/submit_rating.php on line 146
+[16-Apr-2023 17:16:22 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/jiajunco/public_html/test/submit_rating.php:124) in /home2/jiajunco/public_html/test/submit_rating.php on line 146
+[16-Apr-2023 17:16:23 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/jiajunco/public_html/test/submit_rating.php:124) in /home2/jiajunco/public_html/test/submit_rating.php on line 146
+[16-Apr-2023 22:33:36 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[28000] [1045] Access denied for user 'your_username'@'localhost' (using password: YES) in /home2/jiajunco/public_html/test/delete_review.php:22
+Stack trace:
+#0 /home2/jiajunco/public_html/test/delete_review.php(22): PDO->__construct('mysql:host=loca...', 'your_username', 'your_password')
+#1 {main}
+  thrown in /home2/jiajunco/public_html/test/delete_review.php on line 22
+[16-Apr-2023 22:33:41 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[28000] [1045] Access denied for user 'your_username'@'localhost' (using password: YES) in /home2/jiajunco/public_html/test/delete_review.php:22
+Stack trace:
+#0 /home2/jiajunco/public_html/test/delete_review.php(22): PDO->__construct('mysql:host=loca...', 'your_username', 'your_password')
+#1 {main}
+  thrown in /home2/jiajunco/public_html/test/delete_review.php on line 22
+[16-Apr-2023 22:33:50 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[28000] [1045] Access denied for user 'your_username'@'localhost' (using password: YES) in /home2/jiajunco/public_html/test/delete_review.php:22
+Stack trace:
+#0 /home2/jiajunco/public_html/test/delete_review.php(22): PDO->__construct('mysql:host=loca...', 'your_username', 'your_password')
+#1 {main}
+  thrown in /home2/jiajunco/public_html/test/delete_review.php on line 22
+[16-Apr-2023 22:33:54 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[28000] [1045] Access denied for user 'your_username'@'localhost' (using password: YES) in /home2/jiajunco/public_html/test/delete_review.php:22
+Stack trace:
+#0 /home2/jiajunco/public_html/test/delete_review.php(22): PDO->__construct('mysql:host=loca...', 'your_username', 'your_password')
+#1 {main}
+  thrown in /home2/jiajunco/public_html/test/delete_review.php on line 22
+[16-Apr-2023 22:37:19 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[28000] [1045] Access denied for user 'your_username'@'localhost' (using password: YES) in /home2/jiajunco/public_html/test/delete_review.php:22
+Stack trace:
+#0 /home2/jiajunco/public_html/test/delete_review.php(22): PDO->__construct('mysql:host=loca...', 'your_username', 'your_password')
+#1 {main}
+  thrown in /home2/jiajunco/public_html/test/delete_review.php on line 22
+[16-Apr-2023 22:38:44 UTC] PHP Fatal error:  Uncaught Error: Call to a member function execute() on bool in /home2/jiajunco/public_html/test/delete_review.php:26
+Stack trace:
+#0 {main}
+  thrown in /home2/jiajunco/public_html/test/delete_review.php on line 26
+[16-Apr-2023 23:00:33 UTC] PHP Warning:  mysqli::__construct(): (HY000/1044): Access denied for user 'jiajunco_cms'@'localhost' to database 'jiajunco_cms_db' in /home2/jiajunco/public_html/test/delete_review.php on line 16
+[16-Apr-2023 23:00:35 UTC] PHP Warning:  mysqli::__construct(): (HY000/1044): Access denied for user 'jiajunco_cms'@'localhost' to database 'jiajunco_cms_db' in /home2/jiajunco/public_html/test/delete_review.php on line 16
+[16-Apr-2023 23:00:39 UTC] PHP Warning:  mysqli::__construct(): (HY000/1044): Access denied for user 'jiajunco_cms'@'localhost' to database 'jiajunco_cms_db' in /home2/jiajunco/public_html/test/delete_review.php on line 16
+[16-Apr-2023 23:00:41 UTC] PHP Warning:  mysqli::__construct(): (HY000/1044): Access denied for user 'jiajunco_cms'@'localhost' to database 'jiajunco_cms_db' in /home2/jiajunco/public_html/test/delete_review.php on line 16
+[16-Apr-2023 23:01:54 UTC] PHP Warning:  mysqli::__construct(): (HY000/1044): Access denied for user 'jiajunco_cms'@'localhost' to database 'jiajunco_cms_db' in /home2/jiajunco/public_html/test/delete_review.php on line 16
+[16-Apr-2023 23:33:41 UTC] PHP Warning:  Use of undefined constant review_id - assumed 'review_id' (this will throw an Error in a future version of PHP) in /home2/jiajunco/public_html/test/delete_review.php on line 48
+[20-Apr-2023 18:18:28 UTC] PHP Warning:  include(dbconnect.php): failed to open stream: No such file or directory in /home2/jiajunco/public_html/test/index.php on line 3
+[20-Apr-2023 18:18:28 UTC] PHP Warning:  include(dbconnect.php): failed to open stream: No such file or directory in /home2/jiajunco/public_html/test/index.php on line 3
+[20-Apr-2023 18:18:28 UTC] PHP Warning:  include(): Failed opening 'dbconnect.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home2/jiajunco/public_html/test/index.php on line 3
+[20-Apr-2023 18:23:06 UTC] PHP Warning:  include(dbconnect.php): failed to open stream: No such file or directory in /home2/jiajunco/public_html/test/index.php on line 3
+[20-Apr-2023 18:23:06 UTC] PHP Warning:  include(dbconnect.php): failed to open stream: No such file or directory in /home2/jiajunco/public_html/test/index.php on line 3
+[20-Apr-2023 18:23:06 UTC] PHP Warning:  include(): Failed opening 'dbconnect.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home2/jiajunco/public_html/test/index.php on line 3

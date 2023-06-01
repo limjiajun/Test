@@ -1,0 +1,24 @@
+[25-Mar-2023 08:13:01 UTC] PHP Fatal error:  Uncaught Error: Interface 'PHPMailer\PHPMailer\OAuthTokenProvider' not found in /home2/jiajunco/public_html/book/PHPMailer/src/OAuth.php:36
+Stack trace:
+#0 {main}
+  thrown in /home2/jiajunco/public_html/book/PHPMailer/src/OAuth.php on line 36
+[25-Mar-2023 08:18:00 UTC] PHP Fatal error:  Uncaught Error: Interface 'PHPMailer\PHPMailer\OAuthTokenProvider' not found in /home2/jiajunco/public_html/book/PHPMailer/src/OAuth.php:36
+Stack trace:
+#0 {main}
+  thrown in /home2/jiajunco/public_html/book/PHPMailer/src/OAuth.php on line 36
+[25-Mar-2023 10:38:41 UTC] PHP Fatal error:  Uncaught Error: Interface 'PHPMailer\PHPMailer\OAuthTokenProvider' not found in /home2/jiajunco/public_html/book/PHPMailer/src/OAuth.php:36
+Stack trace:
+#0 {main}
+  thrown in /home2/jiajunco/public_html/book/PHPMailer/src/OAuth.php on line 36
+[25-Mar-2023 10:44:35 UTC] PHP Fatal error:  Uncaught Error: Interface 'PHPMailer\PHPMailer\OAuthTokenProvider' not found in /home2/jiajunco/public_html/book/PHPMailer/src/OAuth.php:36
+Stack trace:
+#0 {main}
+  thrown in /home2/jiajunco/public_html/book/PHPMailer/src/OAuth.php on line 36
+[04-Apr-2023 01:10:09 UTC] PHP Fatal error:  Uncaught Error: Interface 'PHPMailer\PHPMailer\OAuthTokenProvider' not found in /home2/jiajunco/public_html/book/PHPMailer/src/OAuth.php:36
+Stack trace:
+#0 {main}
+  thrown in /home2/jiajunco/public_html/book/PHPMailer/src/OAuth.php on line 36
+[19-Apr-2023 05:57:00 UTC] PHP Fatal error:  Uncaught Error: Interface 'PHPMailer\PHPMailer\OAuthTokenProvider' not found in /home2/jiajunco/public_html/book/PHPMailer/src/OAuth.php:36
+Stack trace:
+#0 {main}
+  thrown in /home2/jiajunco/public_html/book/PHPMailer/src/OAuth.php on line 36
